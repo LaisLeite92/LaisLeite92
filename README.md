@@ -9,7 +9,7 @@
 </div>
 
 ##
- 🤍 Desenvolvo em Java e Python, atualmente estou aprendendo JavaScript, html e CSS com pretenção de aprender diversas outras linguagens posteriormente.
+ 🤍 Desenvolvo em Java e Python, atualmente estou aprendendo JavaScript, html e css com pretenção de aprender diversas outras linguagens posteriormente.
 
 
 <div align="left">
