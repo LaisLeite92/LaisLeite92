@@ -6,9 +6,6 @@
   <img align="center" alt="Rafa-canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
-  <img align="center" alt="Rafa-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
-  <img align="center" alt="Rafa-excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg">
 </div>
 
 ##
