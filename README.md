@@ -9,7 +9,8 @@
 </div>
 
 ##
- 🤍 Desenvolvo em Java e Python, atualmente estou aprendendo JavaScript, html e css com pretenção de aprender diversas outras linguagens posteriormente.
+ 🤍 Estou me desenvolvendo cada dia mais em JAVA, HTML, CSS, MySQL, AWS, AZURE e GIT
+     Iniciando o estudo em .NET Core
 
 
 <div align="left">
