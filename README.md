@@ -7,7 +7,7 @@
 </div>
 
 ##
- 🤍 Estou me desenvolvendo cada dia mais em JAVA, HTML, CSS, MySQL, AWS, AZURE e GIT
+ 🤍 Desenvolvendo utilizando JAVA, JAVASCRIPT, HTML, CSS, MySQL, AWS, e GIT.
      Iniciando o estudo em .NET Core
 
 
