@@ -7,8 +7,8 @@
 </div>
 
 ##
- 🤍 Desenvolvendo utilizando JAVA, JAVASCRIPT, HTML, CSS, MySQL, AWS, e GIT.
-     Iniciando o estudo em .NET Core
+<p> 🤍 Desenvolvendo utilizando JAVA, JAVASCRIPT, HTML, CSS, MySQL, AWS, e GIT.</p>
+  <p>   Iniciando o estudo em .NET Core</p>
 
 
 <div align="left">
