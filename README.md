@@ -7,7 +7,6 @@ Olá! Eu sou a Lais Leite 👋
 </div>
 
 <p> 🤍 Desenvolvendo utilizando JAVASCRIPT, HTML, CSS.</p>
- <p> <br> Iniciando o estudo em .NET Core</p>
 
 
 <div align="left">
