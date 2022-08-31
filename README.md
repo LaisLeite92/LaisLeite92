@@ -6,7 +6,7 @@ Olá! Eu sou a Lais Leite 👋
  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<p> 🤍 Desenvolvendo utilizando JAVASCRIPT, HTML, CSS.</p>
+<p> 🤍 Desenvolvendo utilizando JAVASCRIPT, HTML, CSS, JAVA e Python.</p>
 
 
 <div align="left">
@@ -18,5 +18,4 @@ Olá! Eu sou a Lais Leite 👋
  <a href = "mailto:laisoeos92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/lais-leite-a19931138" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/lais_eos_leite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/laisconfused" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
