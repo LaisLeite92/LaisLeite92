@@ -6,7 +6,7 @@ Olá! Eu sou a Lais Leite 👋
  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<p> 🤍 Desenvolvendo utilizando JAVASCRIPT, HTML, CSS, JAVA e Python.</p>
+<p> 🤍 Desenvolvendo utilizando JAVA, PYTHON, JAVASCRIPT, HTML, CSS, JAVA e Python.</p>
 
 
 <div align="left">
